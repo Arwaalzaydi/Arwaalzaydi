@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on training program to use my existing abilities and learn new ones while performing essential duties.
-- 📫 How to reach me my email arwaalzaidi011@gmail.com
+- 📫 How to reach me in my email arwaalzaidi011@gmail.com
 
 <!---
 Arwaalzaydi/Arwaalzaydi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
